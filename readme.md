@@ -8,7 +8,7 @@ You can change `schema` of the database while running
 - BoltDB GitHub: https://github.com/boltdb/bolt
 - BBoltDB GitHub: https://github.com/etcd-io/bbolt
 - BoltHold GitHub: https://github.com/timshannon/bolthold
-- Blog (in Korean):
+- Blog (in Korean): https://jusths.tistory.com/170
 
 ## 1. bolt1.go
 
